@@ -1,3 +1,5 @@
+![](ResourcesMars/img.png)
+
 # Mission_to_Mars
 ## Overview
 Automate a browser to scrape multiple sites to extract data and images (Beautifulsoup, Splinter). Once extracted, storing the info in a NoSQL database (MongoDB). Then using Flask, create a web application to display the data and images.
