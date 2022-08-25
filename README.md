@@ -14,9 +14,9 @@ Automate a browser to scrape multiple sites to extract data and images (Beautifu
 
 
 ###  2. App.py
-* create app to connect MongoDB through Flask to set up web page.
+* Create app to connect MongoDB through Flask to set up web page.
 ###  3. Index.html
-* create containers to display news article, images, and table.
-* create 'Scrape New Data' button to perform our scraping function.
-* refactor code to ensure data displayed is responsive to multiple device sizes.
+* Create containers to display news article, images, and table.
+* Create 'Scrape New Data' button to perform our scraping function.
+* Refactor code to ensure data displayed is responsive to multiple device sizes.
 * Bootstrap; customize web page appearance(background color change, jumbotron image fill, button color change, text color change).
